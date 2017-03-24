@@ -1,0 +1,15 @@
+#local {
+	background-image: url("http://danielpassini.org/wp-content/uploads/2016/04/350x125-sample.png");
+	background-position: 50px 200px;
+	background-repeat: no-repeat;
+	color: #FF0000;
+}
+#strong{
+	text-decoration:underline;
+}
+#em{
+	text-decoration: underline;
+}
+.a{
+	text-decoration: 0 
+}
